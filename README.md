@@ -1,3 +1,3 @@
 # Thinklay
-Thinklay is a website for resolving some household Issues.
+Thinklay is a website for resolving household Issues.
 [thinklay.com](https://thinklay.com/)
